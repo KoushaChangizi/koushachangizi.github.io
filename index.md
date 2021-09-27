@@ -2,40 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Hello!! I'm Kousha
 
 I got my B.S. degree in Computer Science from University of California, San Diego in June 2021. I am currently a full-time researcher at the Salk Institute of Biological Science, doing research on sleep using Machine Learning techniques. Throughout my research, I have developed a better understanding of the impact of Computer Science and more specifically, Artificial Intelligence, on science and the future world. That is when I discovered my passion for this field and decided to continue my education by pursuing a PHD. 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
