@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I got my B.S. degree in Computer Science from University of California, San Diego in June 2021. I am currently a full-time researcher at the Salk Institute of Biological Science, doing research on sleep using Machine Learning techniques. Throughout my research, I have developed a better understanding of the impact of Computer Science and more specifically, Artificial Intelligence, on science and the future world. That is when I discovered my passion for this field and decided to continue my education by pursuing a PHD. 
 
 ## Header 2
 
