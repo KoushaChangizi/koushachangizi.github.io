@@ -20,7 +20,7 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
   * Class of 2018
 
 
-# RESERCH EXPERIENCES
+# Research Experiences
 
 * Salk Institute of Biological Science	
   * AI Research Scientist / Data Analyst
@@ -51,7 +51,7 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 ![Image Capt](image_capt.png)
 
 
-* Gomoku Auto-Play Using AI 
+* <b>Gomoku Auto-Play Using AI </b>
   * UCSD
   * Spring’20
   * Designed an algorithm in Python to play Gomoku, an abstract strategy board game, to play against human agent, using a custom Monte Carlo tree search in Python to make probabilistic decisions. 
