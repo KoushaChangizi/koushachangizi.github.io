@@ -42,6 +42,7 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
   * [https://globalties.ucsd.edu/what/projects/cruz-roja-tijuana.html](https://globalties.ucsd.edu/what/projects/cruz-roja-tijuana.html)
   * Worked in a team of 8 to develop an Android app and a website, which Red Cross ambulances currently use to improve their response time in Tijuana. To do that, we created the mobile app using Android Studio and the website using Django.
   * NBC San Diego's news report: [https://www.nbcsandiego.com/news/local/ucsd-students-modernize-tijuanas-emergency-response-system/2089/](https://www.nbcsandiego.com/news/local/ucsd-students-modernize-tijuanas-emergency-response-system/2089/) 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 * Image Captioning Using an LSTM Network 
   * UCSD
