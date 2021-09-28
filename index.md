@@ -9,6 +9,11 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 
 # Education
 
+University of California, San Diego	          Sep. 2018 – Jun. 2021
+B.Sc. Computer Science, Cognitive Science Minor 	      La Jolla, CA
+GPA; 3.84
+Honors; Cum Laude
+
 * UCSD
   * GPA:
 * De Anza College
