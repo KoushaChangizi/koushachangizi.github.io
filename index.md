@@ -20,17 +20,23 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
   * Class of 2018
 
 
-# Education
+# RESERCH EXPERIENCES
 
-* University of California, San Diego
-  * B.Sc. Computer Science, Cognitive Science Minor
-  * Class of 2021
-  * GPA; 3.84
-  * Honors; Cum Laude
+* Salk Institute of Biological Science	
+  * AI Research Scientist / Data Analyst
+  * Sep. 2020 – Present	        
+  * Processing the EEG and EMG signals of 11 mice to study their sleep patterns.  
+  * Developing a network using Deep Learning to predict mice Sleep/Wake and REM/NREM sleep status based on their EEG and EMG signals.
+  * Using K-means clustering to analyze NREM subcategories in different biological experiments. 
 
-* De Anza College
-  * Associate Degree in Computer Science
-  * Class of 2018
+* MyCircadianClock Mobile App	   
+  * Software Engineer / Data Analyst
+  * Sep. 2021 – Present
+  * [https://mycircadianclock.org/](https://mycircadianclock.org/).
+  * Working in a team to design and develop a health app for both Android and IOS that tracks users’ daily activity, sleep, and eating schedule. 
+  * Analyzing the effect of biologic rhythm on various diseases using the data collected from the users.
+  * Using Django as the app development framework and PostgreSQL for the database management.
+
 
 #### Header 4
 
