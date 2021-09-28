@@ -106,9 +106,3 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 * <b> Principal Intro to Statistics and Probability </b>: Studied the fundamentals of statistic and probability 
 * <b> Design and Analysis of Algorithms </b>: Learned about fundamental algorithms in Computer Science
 
-
-# Hobbies
-* Some of my favorite activities :)
-![Ski Pic](ski.jpg){:height="50%" width="50%"}
-*Squaw Valley, CA (2021)
-
