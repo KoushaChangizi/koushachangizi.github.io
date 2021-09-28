@@ -48,6 +48,7 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
   * UCSD
   * Fall’20
   * Worked with 3 other students to build an encoder-decoder architecture in PyTorch for image captioning using the dataset from the COCO repository. We used CNN to encode the images, and Recurrent Neural Network (LSTM) to generate the captions. At the end, we quantified the quality of text generation by calculating BLEU scores.
+![Image Capt](image_capt.png)
 
 
 * Gomoku Auto-Play Using AI 
