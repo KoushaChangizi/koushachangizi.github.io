@@ -1,6 +1,6 @@
 title: HI!! I'm Kousha
 logo: /propic.jpeg
 description: Feel free to contact me if you have any other question
-show_downloads: true
+show_downloads: false
 google_analytics: false
 theme: jekyll-theme-minimal
