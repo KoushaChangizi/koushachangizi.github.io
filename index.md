@@ -63,41 +63,49 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
   * Winter’21
   * Designed and implemented a workout Android app with 5 other students. For this project, we used Android Studio to implement the UI, Firebase to manage the backend, and Google Fit API to track the user’s exercise. The app had programmed features such as: tracking daily exercises, scheduling a walk, connecting to other users.
 
-* Deep Convolutional Network for Bird Classification
+* <b> Deep Convolutional Network for Bird Classification </b>
   * UCSD
   * Fall’20
   * Implemented a custom CNN architecture to classify North American birds, in a team of 3 students. We used the Caltech-UCSD Birds dataset, containing 12,000 images of 200 categories, to train the network. To achieve the best result, we experimented Max-pooling, Batch normalization, and Cross-entropy loss. 
 
-* Minimum Wage vs. Inflation Data Analysis
+* <b> Minimum Wage vs. Inflation Data Analysis </b>
   * UCSD	                
   * Fall’19
   * Analyzed the effect of minimum wage on inflation rates in California, in a team of 3 students, based on the monthly data from 1976-2017. We pre-processed the data using Panda and NumPy in Jupyter Notebook framework, in addition to using statistical packages, such as Patsy and SciPy, to measure and describe the correlation between minimum wage and inflation.  
 
 
-#### Header 4
+# Teaching Experience
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* <b> UCSD CSE Department </b>
+  * Served as an undergraduate tutor for the following courses:
+    * CSE 103: A Practical Introduction to Probability and Statistic
+    * CSE 101: Design and Analysis Algorithm
+    * CSE 140: Components and Design Techniques for Digital Systems
+    * CSE 21: Mathematics for Algorithms and Systems
+  * More descriptions can be found in the following link: 
+  * [https://catalog.ucsd.edu/courses/CSE.html](https://catalog.ucsd.edu/courses/CSE.html)
 
-##### Header 5
+ * <b> De Anza College CIS Department </b>
+  * TA of CIS 22A (Introductoni to C++) for two quarters.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
-###### Header 6
+# Skills
+* <b> Languages </b>: C/C++, Java, Python 3, ARM Assembly
+* <b> Machine Learning Packages </b>: Scikit-Learn, PyTorch, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Patsy
+* <b> Data Science </b>: Data Visualization, Data Pre-Processing, Jupyter Notebook
+* <b> App Development </b>: Android Studio, DJango, Firebase, Espresso, Docker, Google Fit API, PostgreSQL
+* <b> Project Management </b>: Agile Software Process, SCRUM
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Skills
+* <b> Deep Learning </b>: Applied Neural Network algorithms in multiple datasets
+* <b> Data Science </b>Worked on a real-life data science project 
+* <b> Supervised Machine Learning </b>: Analyzed the mathematics behind machine learning algorithms
+* <b> Search and Reasoning in AI </b>: Applied search and reasoning algorithms to various types of games 
+* <b> Software Engineering </b>: Developed the frontend and backend of an Android fitness app 
+* <b> Project Management </b>: Learned principles of project management including Agile management 
+* <b> Principal Intro to Statistics and Probability </b>: Studied the fundamentals of statistic and probability 
+* <b> Design and Analysis of Algorithms </b>: Learned about fundamental algorithms in Computer Science
 
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
@@ -106,12 +114,6 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 *   Item baz
 *   Item zip
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
