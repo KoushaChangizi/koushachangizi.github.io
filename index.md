@@ -110,5 +110,5 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 # Hobbies
 * Some of my favorite activities :)
 
-![Ski Pic](ski.jpg)
+![Ski Pic](ski.jpg = 25x25)
 
