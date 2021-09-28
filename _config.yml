@@ -1,6 +1,6 @@
 title: HI!! I'm Kousha
 logo: /propic.jpeg
 description: Feel free to contact me if you have any other question ([kchangiz@ucsd.edu](kchangiz@ucsd.edu))
-show_downloads: false
+show_downloads: true
 google_analytics: false
 theme: jekyll-theme-minimal
