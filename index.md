@@ -96,7 +96,7 @@ I got my B.S. degree in Computer Science from University of California, San Dieg
 * <b> App Development </b>: Android Studio, DJango, Firebase, Espresso, Docker, Google Fit API, PostgreSQL
 * <b> Project Management </b>: Agile Software Process, SCRUM
 
-# Skills
+# Related Coursework
 * <b> Deep Learning </b>: Applied Neural Network algorithms in multiple datasets
 * <b> Data Science </b>Worked on a real-life data science project 
 * <b> Supervised Machine Learning </b>: Analyzed the mathematics behind machine learning algorithms
