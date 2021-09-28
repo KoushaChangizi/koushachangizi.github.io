@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Hello!! I'm Kousha
-
 I got my B.S. degree in Computer Science from University of California, San Diego in June 2021. I am currently a full-time researcher at the Salk Institute of Biological Science, doing research on sleep using Machine Learning techniques. Throughout my research, I have developed a better understanding of the impact of Computer Science and more specifically, Artificial Intelligence, on science and the future world. That is when I discovered my passion for this field and decided to continue my education by pursuing a PHD. 
 
 
