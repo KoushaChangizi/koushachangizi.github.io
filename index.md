@@ -3,7 +3,7 @@ layout: default
 title: Kousha Changizi
 ---
 
-<link rel="stylesheet" href="/assets/site.css">
+<!-- site.css now loaded in layout -->
 
 
 I build ML systems for scientific data—covering computer vision for biomedical imaging, circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that ship and answer scientific questions.
