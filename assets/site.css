@@ -40,4 +40,24 @@ body {
     flex: 1;
     min-width: 0;
   }
+  /* Two-column layout: left profile, right content */
+  .wrapper {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 32px;
+  }
+  header {
+    position: sticky;
+    top: 24px;
+    align-self: start;
+  }
+  header img {
+    width: 100%;
+    height: auto;
+  }
+  .profile-links p { margin: 6px 0; }
+  @media (max-width: 900px) {
+    .wrapper { grid-template-columns: 1fr; }
+    header { position: static; }
+  }
   
