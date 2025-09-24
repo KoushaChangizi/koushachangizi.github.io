@@ -8,7 +8,7 @@ title: Kousha Changizi
 # Kousha Changizi
 
 **PhD Student in Machine Learning, UC Irvine (Advisor: Pierre Baldi)**  
-I build ML systems for scientific data, and research on computer vision for biomedical imaging, circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that actually ship and answer scientific questions.
+I build ML systems for scientific data, and research on computer vision for biomedical imaging, as well as circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that actually ship and answer scientific questions.
 
 ---
 
