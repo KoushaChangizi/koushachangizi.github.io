@@ -1,0 +1,11 @@
+title: HI!! I'm Kousha
+logo: /propic.jpeg
+description: Feel free to contact me if you have any other question
+show_downloads: false
+google_analytics: false
+theme: jekyll-theme-minimal
+email: kchangiz@uci.edu
+url: https://koushachangizi.github.io
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
