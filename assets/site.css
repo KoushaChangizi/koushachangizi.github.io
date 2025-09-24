@@ -63,6 +63,8 @@ html {
     height: auto;
   }
   .profile-links p { margin: 6px 0; }
+  .profile-links p.view { color: #111; }
+  .profile-links p.view:first-child { color: #111; text-decoration: none; }
   @media (max-width: 900px) {
     .wrapper { grid-template-columns: 1fr; }
     header { position: static; }
