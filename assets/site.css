@@ -45,7 +45,7 @@ html {
     min-width: 0;
     height: 180px;
     object-fit: cover;
-    object-position: center top;
+    object-position: center bottom;
   }
   /* Two-column layout: left profile, right content */
   .wrapper {
