@@ -6,14 +6,14 @@ title: Kousha Changizi
 <link rel="stylesheet" href="/assets/site.css">
 
 
-I build ML systems for scientific data, and research on computer vision for biomedical imaging, as well as circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that actually ship and answer scientific questions.
+I build ML systems for scientific data—covering computer vision for biomedical imaging, circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that ship and answer scientific questions.
+
 
 ---
 
 ## About
 
-I started my PhD in **September 2022** and expect to graduate by **June 2027**. My research spans **deep learning** and **computer vision** applied to **biology**, from histopathology segmentation to modeling circadian rhythms and integrating single-cell/multi-omics data.  
-Before UCI, I worked at the **Salk Institute** (MyCircadianClock), building end-to-end ML pipelines on large, real-world datasets.
+I started my PhD in **September 2022** and expect to graduate in **June 2027**. My work focuses on **deep learning** and **computer vision** applied to **biology**—from histopathology segmentation to modeling circadian rhythms and integrating single-cell/multi-omics data. Before UCI, I worked at the **Salk Institute**, building end-to-end ML pipelines on large, real-world datasets.
 
 I’m currently open to **Summer 2026** ML/AI research or engineering internships.
 
