@@ -34,13 +34,13 @@ I’m currently open to **Summer 2026** ML/AI research or engineering internship
 
 ---
 
-## Selected Projects
+## Selected Experience
 
-- **Cruz Roja Emergency Response System (Android + Web)** — *Project*  
+- **Cruz Roja Emergency Response System (Android + Web)** 
   <span class="muted">Built in a team for Red Cross Tijuana to improve ambulance dispatch and response times.</span>  
   <img src="/cruz_roja_poster.png" alt="Cruz Roja Poster" class="img-lg">
 
-- **Image Captioning with CNN–LSTM (COCO)** — *Project*  
+- **Image Captioning with CNN–LSTM (COCO)** 
   <span class="muted">Encoder–decoder pipeline in PyTorch with BLEU evaluation for caption quality.</span>  
   <img src="/image_capt.png" alt="Image Captioning Example" class="img-lg">
 
