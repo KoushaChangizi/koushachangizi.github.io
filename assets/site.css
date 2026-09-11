@@ -1,76 +1,180 @@
-/* Layout & typography */
-body {
-    max-width: 880px;
-    margin: 40px auto;
-    padding: 0 16px;
-    font: 13px/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
-    color: #111;
-    background: #ffffff !important;
-  }
+:root {
+  --text: #172033;
+  --muted: #647084;
+  --link: #155eef;
+  --rule: #e5e9f0;
+}
+
 html {
-    background: #ffffff !important;
+  background: #fff !important;
+}
+
+body {
+  margin: 0;
+  padding: 48px 24px;
+  color: var(--text);
+  background: #fff !important;
+  font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 64px;
+  width: 100%;
+  max-width: 1040px;
+  margin: 0 auto;
+}
+
+header,
+section,
+footer {
+  float: none;
+  width: auto;
+}
+
+header {
+  position: sticky;
+  top: 32px;
+  align-self: start;
+}
+
+header h1 {
+  margin: 0 0 0.8rem;
+  color: var(--text);
+  font-size: 2.15rem;
+  line-height: 1.15;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border: 0;
+  border-radius: 14px;
+}
+
+.profile-title {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.profile-title strong {
+  color: var(--text);
+}
+
+h2 {
+  margin: 2.25rem 0 0.85rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--rule);
+  color: var(--text);
+  font-size: 1.35rem;
+  line-height: 1.3;
+}
+
+section > h2:first-child {
+  margin-top: 0;
+}
+
+p {
+  margin: 0.55rem 0 1rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin: 0.8rem 0;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.muted,
+.meta {
+  color: var(--muted);
+}
+
+.meta {
+  font-size: 0.92rem;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.9rem;
+}
+
+.profile-links p,
+.profile-links p.view {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+}
+
+.img-row {
+  display: flex;
+  gap: 16px;
+  align-items: stretch;
+}
+
+.img-row img {
+  flex: 1;
+  min-width: 0;
+  height: 190px;
+  object-fit: cover;
+  object-position: bottom center;
+}
+
+footer {
+  display: none;
+}
+
+@media (max-width: 780px) {
+  body {
+    padding: 28px 20px;
   }
-  h1 { font-size: 2rem; margin: 0 0 0.5rem; }
-  h2 { font-size: 1.35rem; margin-top: 1.75rem; }
-  p, li { margin-top: 0.4rem; }
-  a { color: #0066cc; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  hr { border: 0; border-top: 1px solid #eee; margin: 1.5rem 0; }
-  
-  /* Helpers */
-  .muted { color: #666; }
-  
-  /* Images */
-  img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    border: 1px solid #eee;
-  }
-  .img-lg {
-    display: block;
-    max-width: 680px;
-    width: 100%;
-    margin: 8px 0 2px 0;
-  }
-  
-  /* Side-by-side row (for hobbies) */
-  .img-row {
-    display: flex;
-    gap: 16px;
-    align-items: flex-start;
-  }
-  .img-row img {
-    flex: 1;
-    min-width: 0;
-    height: 180px;
-    object-fit: cover;
-    object-position: center top;
-  }
-  /* Two-column layout: left profile, right content */
+
   .wrapper {
-    display: grid;
-    grid-template-columns: 320px 1fr;
-    gap: 32px;
+    grid-template-columns: 1fr;
+    gap: 36px;
   }
+
   header {
-    position: sticky;
-    top: 24px;
-    align-self: start;
+    position: static;
   }
-  header h1 {
-    order: -1;
-    margin-bottom: 1rem;
-  }
+
   header img {
+    width: 180px;
+  }
+}
+
+@media (max-width: 520px) {
+  .img-row {
+    flex-direction: column;
+  }
+
+  .img-row img {
     width: 100%;
-    height: auto;
   }
-  .profile-links p { margin: 6px 0; }
-  .profile-links p.view { color: #111; }
-  .profile-links p.view:first-child { color: #111; text-decoration: none; }
-  @media (max-width: 900px) {
-    .wrapper { grid-template-columns: 1fr; }
-    header { position: static; }
-  }
-  
+}
