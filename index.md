@@ -3,104 +3,84 @@ layout: default
 title: Kousha Changizi
 ---
 
+<!-- site.css now loaded in layout -->
+
+
 ## About
 
-I am a Computer Science Ph.D. candidate at the University of California, Irvine, advised by [Pierre Baldi](https://www.igb.uci.edu/~pfbaldi/). I build machine learning systems for ranking and recommendation, biomedical imaging, circadian genomics, and multimodal scientific data.
+I build ML systems for scientific data—covering computer vision for biomedical imaging, circadian transcriptomics, and multi-omics integration. I like turning messy, real-world datasets into models that ship and answer scientific questions.
 
-Most recently, I worked on Instagram ads ranking at **Meta**, where I owned an end-to-end machine learning project spanning dataset development, production-model improvements, and online A/B testing at large scale. Previously, I developed machine learning systems at the **Salk Institute** for the MyCircadianClock mobile app and for EEG/EMG-based sleep analysis.
+I started my PhD in **September 2022** and expect to graduate in **June 2027**. My work focuses on **deep learning** and **computer vision** applied to **biology**—from histopathology segmentation to modeling circadian rhythms and integrating single-cell/multi-omics data. Before UCI, I worked at the **Salk Institute**, building end-to-end ML pipelines on large, real-world datasets.
 
-I expect to complete my Ph.D. in **June 2027**.
-
----
-
-## Experience
-
-- **Meta — Machine Learning Engineer Intern**  
-  <span class="meta">Jun. 2026 – Sep. 2026</span>  
-  Owned an end-to-end Instagram ads ranking project using datasets with billions of data points. Improved a production ranking model using multi-week training windows and evaluated it through online A/B testing on live traffic.
-
-- **Salk Institute — Machine Learning Engineer**  
-  <span class="meta">Jun. 2021 – Jun. 2022</span>  
-  Developed a deep neural network using MyCircadianClock user data to identify disease risks. Managed and analyzed data from more than one million app users on AWS.
-
-- **Salk Institute — Machine Learning Engineer Intern**  
-  <span class="meta">Sep. 2020 – Jun. 2021</span>  
-  Built deep learning and computer vision methods to classify sleep states from mouse EEG and EMG signals, including a self-supervised model for discovering NREM sleep substates.
-
-- **UC San Diego — Software Engineer Intern**  
-  <span class="meta">Jan. 2019 – Jun. 2019</span>  
-  Contributed to an Android emergency-response system used by Red Cross ambulances in Tijuana and analyzed location and response-time data to support dispatch optimization.
+Most recently (Summer 2026), I was a **Machine Learning Engineer Intern at Meta**, working on **Instagram ads ranking**—training and evaluating large-scale recommender models in production ranking stacks.
 
 ---
 
-## Research
+## Selected Publications
 
-- ***CircadiOmics: bioinformatics platform for circadian rhythms***  
-  <span class="meta">In revision at Bioinformatics · First author</span>
+**Under review / in preparation**
 
-- ***PRESD: Pixel-wise Resolution Expansion of Spectra via Deep Learning***  
-  <span class="meta">Submitted to Nature Biomedical Engineering · First author</span>
+- **CircadiOmics: bioinformatics platform for circadian rhythms.** *First author. Under revision, Bioinformatics.*  
+  <span class="muted">Updated web platform for analyzing circadian omics datasets.</span>
 
-- ***From Topology to Time: Predicting Circadian Gene Oscillation via Deep Graph Networks***  
-  <span class="meta">Accepted at ICANN 2026 · Second author</span>
+- **PRESD: Pixel-wise Resolution Expansion of Spectra via Deep Learning.** *First author. Submitted, Nature Biomedical Imaging.*  
+  <span class="muted">Deep generative models for multispectral fluorescence imaging—predicting high-resolution spectral channels from fewer inputs.</span>
 
-- ***BioCycle: Deep Learning Approaches for Circadian Rhythm***  
-  <span class="meta">In progress · First author</span>
+- **Deep Learning–Based Segmentation of Melanoma in SOX10/PRAME-Stained Images.** *In progress.*  
+  <span class="muted">Reliable, scalable histopathology segmentation with modern CV tooling (CVAT, SAM, PyTorch).</span>
 
-- ***Time Restricted Feeding Mitigates High-Fat-Diet Induced Sleep Disruption and Amplifies NREM Substates***  
-  <span class="meta">Submitted to SLEEP · Third author</span>
+**Published / accepted**
 
-- ***High-fat diet reprograms temporal coordination of daily metabolic rhythms in the kidney***  
-  <span class="meta">Submitted to iScience · Fourth author</span>
+- **From Topology to Time: Predicting Circadian Gene Oscillation via Deep Graph Networks.** *Second author. ICANN 2026.*
 
-- ***Chronic intermittent hypoxia rewires cardiac metabolic rhythms in a model of sleep apnea***  
-  <span class="meta">Submitted to Science Advances · Third author</span>
+- **Chronic intermittent hypoxia rewires cardiac metabolic rhythms in a model of sleep apnea.** *Third author. Submitted, Science Advances.*
 
-Six peer-reviewed publications—including papers in *Science Advances*, *Cell Metabolism*, and *Cell Reports*—and one preprint are available on my [Google Scholar profile](https://scholar.google.com/citations?user=OULzoJ0AAAAJ).
+- **High-fat diet reprograms temporal coordination of daily metabolic rhythms in the kidney.** *Fourth author. Submitted, iScience.*
 
----
+- **Circadian Dynamics in the Mouse Brain Cilia Transcriptome in Diverse Physiopathological States.** *BMC Biology, 2024.*
 
-## Technical Skills
-
-**Languages:** Python, R, C++  
-**Machine Learning:** PyTorch, TensorFlow, Transformers, scikit-learn, ranking and recommendation systems, generative AI, NLP, RNNs  
-**Computer Vision & Data:** CVAT, SAM, Pandas, NumPy, Scanpy  
-**Infrastructure:** CUDA, AWS, Hadoop, Docker
+For the full list, see my [Google Scholar profile](https://scholar.google.com/citations?user=OULzoJ0AAAAJ).
 
 ---
 
-## Education
+## Selected Experience
 
-- **University of California, Irvine** — Ph.D. in Computer Science, expected Jun. 2027  
-  <span class="muted">Research focus: machine learning for biological and biomedical sciences · Advisor: Pierre Baldi</span>
+- **Cruz Roja Emergency Response System (Android + Web)** 
+  <span class="muted">Built in a team for Red Cross Tijuana to improve ambulance dispatch and response times.</span>  
+  <img src="/cruz_roja_poster.png" alt="Cruz Roja Poster" class="img-lg">
 
-- **University of California, San Diego** — B.S. in Computer Science, Minor in Cognitive Science, 2021  
-  <span class="muted">Cum Laude</span>
+- **Image Captioning with CNN–LSTM (COCO)** 
+  <span class="muted">Encoder–decoder pipeline in PyTorch with BLEU evaluation for caption quality.</span>  
+  <img src="/image_capt.png" alt="Image Captioning Example" class="img-lg">
 
----
 
-## Honors & Awards
-
-- **Bronze Medal**, Iran’s National Computer Olympiad  
-- **Beall & Butterworth International Collaboration Winner**, UC Irvine  
-- **1st Place, Big Ideas Contest (Global Health)**, UC Berkeley  
-- **Provost Honors (×5)**, UC San Diego  
-- **Town & Gown Scholarship**, UC San Diego
 
 ---
 
 ## Teaching & Mentorship
 
-- Undergraduate tutor, **UC San Diego CSE**: Algorithms, Probability & Statistics, Digital Systems, and Mathematics for Algorithms
-- Mentored junior students on machine learning tooling, data pipelines, and experiment design
+- Undergraduate tutor, **UC San Diego CSE**: Algorithms (CSE 101), Probability & Statistics (CSE 103), Digital Systems (CSE 140), Mathematics for Algorithms (CSE 21).  
+- Mentored junior students on ML tooling, data pipelines, and experiment design.
 
 ---
 
-## Beyond Work
+## Awards
 
-Outside research and engineering, I enjoy skiing, playing soccer, and following Real Madrid.
+- **Bronze Medal**, Iran’s National Computer Olympiad.  
+- **Big Ideas (Global Health) – 1st Place**, UC Berkeley (Cruz Roja ambulance dispatch).  
+- **Beall & Butterworth International Collaboration Winner**, UC Irvine.  
+- **South Summit Brazil (2024) — Delegation**, UC Irvine (as Beall & Butterworth winners).  
+- **Provost Honors (×5)**, UC San Diego.  
+- **Town & Gown Scholarship**, UC San Diego.  
+- **De Anza College Honors Program**.
+
+---
+
+## Hobbies
+
+I’m into outdoor activities—**skiing** and **playing soccer**. I also love watching soccer; my favorite team is **Real Madrid**.
 
 <div class="img-row">
-  <img src="/ski.jpg" alt="Kousha skiing">
+  <img src="/ski.jpg" alt="Skiing">
   <img src="/realmadrid.png" alt="Real Madrid">
 </div>
